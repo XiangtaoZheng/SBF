@@ -1,2 +1,2 @@
 # SBF
-The code and dataset will be made publicly available soon.
+This repository is the implementation of our paper: SBF: A Spectral Bands Fusion Framework for Hyperspectral Scene Classiffcation.
